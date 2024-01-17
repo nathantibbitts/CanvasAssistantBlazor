@@ -1,11 +1,19 @@
 # CanvasAssistantBlazor
 
+This is a rebuild of a project used to help improve efficiency when grading assignments using Instructure's Canvas. The original [(Found Here)](https://github.com/cdmccauley/canvasser)
+was made using Next.js, while this rebuild is uses Blazor. A running version of the old build can be seen [here](https://canvasser.vercel.app/).
+This project is currently a work in progress, and is not functioning.
+
+---
+
 ## Getting Started
 clone the repo https://github.com/Davis-Technical-College/CanvasAssistantBlazor
 ### Dependencies
  
-Install .NET SDK
-C# extension on VS or Code Editor of choice.
+Install [.NET SDK
+C#](https://dotnet.microsoft.com/en-us/download) extension on VS or Code Editor of choice.
+
+---
 
 ## Help
 
@@ -14,6 +22,8 @@ Ensure that you are running an updated .NET SDK, currently the program is using 
 
 As of 1/3/2024 you are only seeing the Hello World and Counter click. That is expected!
 
+---
+
 ## License
 
-This project is licensed under the MIT License - see the LICENSE.md file for details
+This project is licensed under the MIT License - see the LICENSE.txt file for details
