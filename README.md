@@ -20,9 +20,16 @@ C#](https://dotnet.microsoft.com/en-us/download) extension on VS or Code Editor 
 
 ## Help
 
-Ensure that you are running an updated Visual Studio or text editor, and an updated .NET SDK (currently the program is using version 8.0).
+Ensure that you are running an updated Visual Studio or text editor, and an updated .NET SDK (currently the program is using version 8.0. It wont run the program if the version is lower).
 
 As of 1/3/2024 you are only seeing the Hello World and Counter click. That is expected!
+
+## Steps on running the program with Visual Studio
+ 1. When you open the folder, you will see many files. Open up "CanvasAssistantBlazor.sln" with Visual studio **2022** or **NEWER**
+ 2. On the top of the screen. You will see **https** with a green arrow. Doube click on that to run the program(it might take a minute to run).
+ 3. Once the program opens up, it will save certifates to you computer(**This is normal!**)
+ 4. Congrats, the app has opened!
+ 
 
 ## License
 
