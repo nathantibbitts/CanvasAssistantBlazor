@@ -24,6 +24,8 @@ Ensure that you are running an updated Visual Studio or text editor, and an upda
 
 As of 1/3/2024 you are only seeing the Hello World and Counter click. That is expected!
 
+Information on how to setup Visual Studio on your own device can be found in the [Visual Studio Setup](VisualStudioSetup.md) docs.  It also has some information for running the project on DTC computers.
+
 ## Steps on running the program with Visual Studio
  1. When you open the folder, you will see many files. Open up "CanvasAssistantBlazor.sln" with Visual studio **2022** or **NEWER**
  2. On the top of the screen. You will see **https** with a green arrow. Doube click on that to run the program(it might take a minute to run).
