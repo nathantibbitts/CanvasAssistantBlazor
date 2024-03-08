@@ -36,6 +36,6 @@ This project is licensed under the MIT License - see the LICENSE.txt file for de
 
 
 ## Credits
-Joseph Plaizer
-Derek Mowry
+Joseph Plaizer,
+Derek Mowry,
 William Cummings
