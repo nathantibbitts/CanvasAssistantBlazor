@@ -33,3 +33,10 @@ Information on how to setup Visual Studio on your own device can be found in the
  
 ## License
 This project is licensed under the MIT License - see the LICENSE.txt file for details.
+
+
+## Credits
+George Ray,
+Joseph Plaizer,
+Derek Mowry,
+William Cummings
