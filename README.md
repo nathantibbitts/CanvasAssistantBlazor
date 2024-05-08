@@ -31,7 +31,7 @@ Information on how to setup Visual Studio on your own device can be found in the
  4. The app will function without the certificates installed, but your connection will **not** be secure.
  5. Congrats, the app has opened!
 
-
+## Steps to running on Fedora
 1. Install the packages `dotnet-sdk-8.0` to be able to build the program, and `aspnetcore-runtime-8.0` to be able to run the server: 
 ```dnf install dotnet-sdk-8.0 aspnetcore-runtime-8.0```
 2. Navigate to the project root. If it throws an error that says `Couldn't find a project to run...`, you simply aren't in the correct folder. You want to be in the folder with Program.cs and some json files, and NOT the folder labeled with "client" on the end. You want to build the server.
