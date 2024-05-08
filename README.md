@@ -32,7 +32,8 @@ Information on how to setup Visual Studio on your own device can be found in the
  5. Congrats, the app has opened!
 
 
-1. Install the packages `dotnet-sdk-8.0` to be able to build the program, and `aspnetcore-runtime-8.0` to be able to run the server: ```bash # dnf install dotnet-sdk-8.0 aspnetcore-runtime-8.0```.
+1. Install the packages `dotnet-sdk-8.0` to be able to build the program, and `aspnetcore-runtime-8.0` to be able to run the server: 
+```dnf install dotnet-sdk-8.0 aspnetcore-runtime-8.0```
 2. Navigate to the project root. If it throws an error that says `Couldn't find a project to run...`, you simply aren't in the correct folder. You want to be in the folder with Program.cs and some json files, and NOT the folder labeled with "client" on the end. You want to build the server.
 3. You can do this one of two ways:
     1. ```dotnet run```. This has the advantage of building and running the executable in one step.
